@@ -1,0 +1,54 @@
+﻿@model IEnumerable<BookStore.Models.Author>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table table-bordered table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                FullName
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) 
+{
+        <tr>
+            <td>
+                @item.Id
+            </td>
+
+            <td>
+                @item.FullName
+            </td>
+
+            <td>
+                @if(item.ImageUrl!=null)
+                {
+                   <img src="~/writers/@item.ImageUrl" style="width:80px;" class="img-thumbnail">
+                }
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-controller="Author" asp-route-Id="@item.Id" class="btn btn-info">Edit</a> 
+                <a asp-action="Details" asp-controller="Author" asp-route-Id="@item.Id" class="btn btn-primary">Details</a> 
+                <a href="/Author/Delete/@item.Id" class="btn btn-danger" >Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
