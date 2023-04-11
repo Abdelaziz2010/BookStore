@@ -1,0 +1,596 @@
+E:\Summer Training\MVC\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+E:\Summer Training\MVC\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+E:\Summer Training\MVC\BookStore\BookStore\bin\Debug\net6.0\BookStore.staticwebassets.runtime.json
+E:\Summer Training\MVC\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+E:\Summer Training\MVC\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+E:\Summer Training\MVC\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+E:\Summer Training\MVC\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+E:\Summer Training\MVC\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cache
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cs
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\scopedcss\projectbundle\BookStore.bundle.scp.css
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+E:\Summer Training\MVC\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\BookStore.staticwebassets.runtime.json
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cache
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cs
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\scopedcss\projectbundle\BookStore.bundle.scp.css
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\MessagePack.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.Common.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Course\.Net\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\libman.json
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Azure.Core.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Azure.Identity.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.CodeDom.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Memory.Data.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\System.Text.Json.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Course\.Net\BookStore\BookStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\libman.json
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\BookStore.staticwebassets.runtime.json
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Azure.Core.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Azure.Identity.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\MessagePack.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.Common.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.CodeDom.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Memory.Data.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Text.Json.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cache
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cs
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\scopedcss\projectbundle\BookStore.bundle.scp.css
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+G:\Course\.Net\My Projects\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
